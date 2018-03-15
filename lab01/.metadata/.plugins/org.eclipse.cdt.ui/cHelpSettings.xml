@@ -6,4 +6,10 @@
 <book enabled="true" title="Renesas.Synergy.1.3.3.pack"/>
 </provider>
 </project>
+<project name="LAB_RTOS_1">
+<provider id="org.eclipse.cdt.ui.provider1"/>
+<provider id="org.eclipse.linuxtools.cdt.libhover.provider">
+<book enabled="true" title="Renesas.Synergy.1.3.3.pack"/>
+</provider>
+</project>
 </cHelpSettings>
