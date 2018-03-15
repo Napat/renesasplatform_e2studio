@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Elements>
+<GAUGE>
+	<VEModelChildElement.LocationX>313</VEModelChildElement.LocationX>
+	<VEModelChildElement.LocationY>86</VEModelChildElement.LocationY>
+	<VEModelChildElement.SizeCX>150</VEModelChildElement.SizeCX>
+	<VEModelChildElement.SizeCY>150</VEModelChildElement.SizeCY>
+	<VEModelChildElement.expressionTitleVisible>true</VEModelChildElement.expressionTitleVisible>
+	<VEModelChildElement.minRange>1000.0</VEModelChildElement.minRange>
+	<VEModelChildElement.maxRange>4000.0</VEModelChildElement.maxRange>
+	<VEModelChildElement.expressionName>g_trng_result</VEModelChildElement.expressionName>
+	<VEModelChildElement.expressionUpdatesDisabled>false</VEModelChildElement.expressionUpdatesDisabled>
+	<VEModelChildElement.foregroundColor>0</VEModelChildElement.foregroundColor>
+	<VEModelChildElement.backgroundColor>16777215</VEModelChildElement.backgroundColor>
+</GAUGE>
+</Elements>
