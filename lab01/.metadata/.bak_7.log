@@ -6,9 +6,9 @@ BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
 Command-line arguments:  -os win32 -ws win32 -arch x86
 
 This is a continuation of log file D:\workdir\forth\renesas_rtos_training\workdir\lab01\.metadata\.bak_6.log
-Created Time: 2018-03-15 15:07:46.432
+Created Time: 2018-03-15 16:04:30.375
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:46.436
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:30.379
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -57,7 +57,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:47.428
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:31.372
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -106,7 +106,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:47.432
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:31.376
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -155,7 +155,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:48.430
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:32.372
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -204,7 +204,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:48.434
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:32.377
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -253,7 +253,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:49.431
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:33.373
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -302,7 +302,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:49.435
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:33.378
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -351,7 +351,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:50.433
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:34.374
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -400,7 +400,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:50.437
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:34.379
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -449,7 +449,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:51.434
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:35.378
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -498,7 +498,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:51.439
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:35.383
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -547,7 +547,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:52.436
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:36.378
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -596,7 +596,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:52.440
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:36.383
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -645,7 +645,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:53.437
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:37.381
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -694,7 +694,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:53.442
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:37.388
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -743,7 +743,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:54.438
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:38.381
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -792,7 +792,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:54.442
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:38.387
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -841,7 +841,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:55.439
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:39.386
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -890,7 +890,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:55.444
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:39.390
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -939,7 +939,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:56.440
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:40.387
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -988,7 +988,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:56.445
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:40.393
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1037,7 +1037,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:57.442
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:41.390
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1086,7 +1086,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:57.447
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:41.394
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1135,7 +1135,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:58.444
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:42.393
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1184,7 +1184,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:58.450
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:42.398
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1233,7 +1233,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:59.446
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:43.396
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1282,7 +1282,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:07:59.451
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:43.401
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1331,7 +1331,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:00.448
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:44.398
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1380,7 +1380,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:00.453
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:44.402
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1429,7 +1429,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:01.449
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:45.400
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1478,7 +1478,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:01.454
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:45.405
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1527,7 +1527,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:02.450
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:46.406
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1576,7 +1576,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:02.457
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:46.411
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1625,7 +1625,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:03.452
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:47.403
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1674,7 +1674,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:03.457
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:47.408
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1723,7 +1723,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:04.454
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:48.402
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1772,7 +1772,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:04.460
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:48.407
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1821,7 +1821,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:05.455
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:49.411
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1870,7 +1870,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:05.460
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:49.434
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1919,7 +1919,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:06.457
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:50.406
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -1968,7 +1968,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:06.462
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:50.411
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2017,7 +2017,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:07.460
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:51.407
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2066,7 +2066,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:07.465
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:51.412
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2115,7 +2115,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:08.461
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:52.410
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2164,7 +2164,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:08.466
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:52.415
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2213,7 +2213,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:09.462
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:53.413
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2262,7 +2262,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:09.467
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:53.418
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2311,7 +2311,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:10.464
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:54.414
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2360,7 +2360,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:10.469
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:54.419
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2409,7 +2409,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:11.465
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:55.413
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2458,7 +2458,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:11.470
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:55.418
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2507,7 +2507,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:12.468
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:56.415
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2556,7 +2556,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:12.473
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:56.420
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2605,7 +2605,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:13.469
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:57.415
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2654,7 +2654,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:13.474
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:57.421
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2703,7 +2703,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:14.470
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:58.417
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2752,7 +2752,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:14.476
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:58.421
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2801,7 +2801,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:15.472
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:59.419
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2850,7 +2850,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:15.477
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:04:59.424
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2899,7 +2899,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:16.474
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:00.443
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2948,7 +2948,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:16.479
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:00.449
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -2997,7 +2997,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:17.476
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:01.421
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3046,7 +3046,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:17.480
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:01.426
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3095,7 +3095,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:18.477
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:02.423
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3144,7 +3144,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:18.481
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:02.428
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3193,7 +3193,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:19.478
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:03.426
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3242,7 +3242,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:19.483
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:03.431
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3291,7 +3291,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:20.481
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:04.428
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3340,7 +3340,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:20.486
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:04.433
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3389,7 +3389,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:21.482
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:05.429
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3438,7 +3438,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:21.487
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:05.433
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3487,7 +3487,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:22.485
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:06.430
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3536,7 +3536,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:22.490
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:06.435
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3585,7 +3585,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:23.485
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:07.432
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3634,7 +3634,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:23.490
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:07.437
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3683,7 +3683,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:24.486
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:08.432
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3732,7 +3732,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:24.492
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:08.437
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3781,7 +3781,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:25.488
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:09.433
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3830,7 +3830,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:25.493
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:09.437
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3879,7 +3879,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:26.489
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:10.450
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3928,7 +3928,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:26.494
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:10.456
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -3977,7 +3977,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:27.490
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:11.448
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4026,7 +4026,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:27.495
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:11.453
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4075,7 +4075,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:28.492
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:12.452
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4124,7 +4124,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:28.497
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:12.459
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4173,7 +4173,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:29.494
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:13.475
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4222,7 +4222,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:29.499
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:13.480
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4271,7 +4271,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:30.495
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:14.455
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4320,7 +4320,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:30.500
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:14.461
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4369,7 +4369,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:31.496
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:15.470
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4418,7 +4418,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:31.500
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:15.477
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4467,7 +4467,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:32.498
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:16.453
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4516,7 +4516,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:32.503
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:16.459
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4565,7 +4565,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:33.501
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:17.447
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4614,7 +4614,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:33.505
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:17.452
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4663,7 +4663,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:34.502
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:18.455
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4712,7 +4712,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:34.507
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:18.461
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4761,7 +4761,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:35.504
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:19.461
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4810,7 +4810,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:35.510
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:19.467
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4859,7 +4859,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:36.505
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:20.462
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4908,7 +4908,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:36.511
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:20.466
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -4957,7 +4957,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:37.508
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:21.480
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5006,7 +5006,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:37.513
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:21.485
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5055,7 +5055,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:38.509
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:22.467
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5104,7 +5104,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:38.515
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:22.473
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5153,7 +5153,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:39.512
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:23.465
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5202,7 +5202,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:39.517
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:23.470
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5251,7 +5251,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:40.513
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:24.467
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5300,7 +5300,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:40.518
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:24.473
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5349,7 +5349,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:41.515
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:25.464
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5398,7 +5398,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:41.520
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:25.469
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5447,7 +5447,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:42.516
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:26.477
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5496,7 +5496,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:42.520
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:26.482
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5545,7 +5545,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:43.517
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:27.464
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5594,7 +5594,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:43.523
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:27.469
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5643,7 +5643,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:44.520
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:28.472
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5692,7 +5692,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:44.527
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:28.478
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5741,7 +5741,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:45.522
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:29.493
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5790,7 +5790,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:45.526
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:29.497
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5839,7 +5839,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:46.523
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:30.497
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5888,7 +5888,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:46.528
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:30.503
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5937,7 +5937,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:47.526
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:31.499
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -5986,7 +5986,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:47.530
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:31.504
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6035,7 +6035,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:48.526
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:32.501
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6084,7 +6084,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:48.531
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:32.506
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6133,7 +6133,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:49.529
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:33.509
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6182,7 +6182,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:49.533
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:33.514
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6231,7 +6231,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:50.530
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:34.512
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6280,7 +6280,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:50.534
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:34.517
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6329,7 +6329,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:51.531
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:35.505
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6378,7 +6378,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:51.536
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:35.509
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6427,7 +6427,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:52.540
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:36.508
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6476,7 +6476,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:52.545
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:36.513
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6525,7 +6525,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:53.535
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:37.513
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6574,7 +6574,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:53.540
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:37.519
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6623,7 +6623,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:54.536
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:38.523
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6672,7 +6672,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:54.541
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:38.527
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6721,7 +6721,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:55.539
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:39.525
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6770,7 +6770,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:55.564
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:39.530
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6819,7 +6819,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:56.539
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:40.518
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6868,7 +6868,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:56.544
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:40.524
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6917,7 +6917,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:57.541
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:41.511
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -6966,7 +6966,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:57.547
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:41.516
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7015,7 +7015,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:58.542
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:42.549
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7064,7 +7064,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:58.547
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:42.556
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7113,7 +7113,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:59.544
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:43.544
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7162,7 +7162,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:08:59.548
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:43.549
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7211,7 +7211,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:00.545
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:44.543
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7260,7 +7260,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:00.549
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:44.549
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7309,7 +7309,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:01.546
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:45.534
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7358,7 +7358,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:01.551
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:45.540
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7407,7 +7407,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:02.547
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:46.534
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7456,7 +7456,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:02.555
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:46.540
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7505,7 +7505,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:03.549
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:47.525
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7554,7 +7554,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:03.554
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:47.531
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7603,7 +7603,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:04.551
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:48.527
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7652,7 +7652,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:04.556
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:48.533
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7701,7 +7701,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:05.553
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:49.528
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7750,7 +7750,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:05.558
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:49.534
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7799,7 +7799,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:06.553
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:50.539
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7848,7 +7848,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:06.558
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:50.545
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7897,7 +7897,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:07.554
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:51.533
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7946,7 +7946,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:07.559
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:51.538
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -7995,7 +7995,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:08.556
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:52.536
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8044,7 +8044,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:08.561
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:52.542
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8093,7 +8093,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:09.557
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:53.546
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8142,7 +8142,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:09.563
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:53.552
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8191,7 +8191,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:10.559
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:54.536
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8240,7 +8240,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:10.564
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:54.541
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8289,7 +8289,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:11.562
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:55.554
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8338,7 +8338,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:11.569
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:55.560
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8387,7 +8387,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:12.564
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:56.553
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8436,7 +8436,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:12.569
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:56.558
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8485,7 +8485,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:13.564
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:57.562
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8534,7 +8534,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:13.569
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:57.568
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8583,7 +8583,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:14.565
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:58.577
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8632,7 +8632,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:14.571
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:58.584
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8681,7 +8681,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:15.569
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:59.556
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8730,7 +8730,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:15.574
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:05:59.561
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8779,7 +8779,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:16.569
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:00.554
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8828,7 +8828,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:16.574
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:00.560
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8877,7 +8877,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:17.569
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:01.549
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8926,7 +8926,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:17.574
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:01.554
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -8975,7 +8975,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:18.572
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:02.553
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9024,7 +9024,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:18.577
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:02.558
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9073,7 +9073,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:19.581
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:03.552
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9122,7 +9122,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:19.587
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:03.557
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9171,7 +9171,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:20.575
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:04.558
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9220,7 +9220,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:20.580
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:04.563
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9269,7 +9269,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:21.577
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:05.555
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9318,7 +9318,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:21.583
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:05.560
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9367,7 +9367,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:22.579
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:06.556
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9416,7 +9416,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:22.584
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:06.562
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9465,7 +9465,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:23.579
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:07.558
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9514,7 +9514,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:23.584
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:07.563
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9563,7 +9563,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:24.582
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:08.605
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9612,7 +9612,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:24.587
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:08.610
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9661,7 +9661,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:25.583
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:09.563
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9710,7 +9710,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:25.590
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:09.568
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9759,7 +9759,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:26.585
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:10.572
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9808,7 +9808,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:26.591
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:10.577
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9857,7 +9857,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:27.587
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:11.565
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9906,7 +9906,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:27.593
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:11.572
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -9955,7 +9955,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:28.588
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:12.570
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10004,7 +10004,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:28.593
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:12.576
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10053,7 +10053,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:29.590
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:13.570
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10102,7 +10102,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:29.596
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:13.575
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10151,7 +10151,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:30.591
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:14.572
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10200,7 +10200,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:30.597
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:14.577
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10249,7 +10249,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:31.591
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:15.575
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10298,7 +10298,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:31.596
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:15.580
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10347,7 +10347,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:32.593
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:16.573
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10396,7 +10396,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:32.599
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:16.579
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10445,7 +10445,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:33.596
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:17.578
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10494,7 +10494,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:33.602
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:17.584
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10543,7 +10543,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:34.598
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:18.579
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10592,7 +10592,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:34.604
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:18.584
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10641,7 +10641,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:35.606
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:19.583
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10690,7 +10690,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:35.612
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:19.589
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10739,7 +10739,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:36.603
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:20.592
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10788,7 +10788,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:36.608
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:20.597
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10837,7 +10837,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:37.604
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:21.599
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10886,7 +10886,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:37.610
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:21.603
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10935,7 +10935,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:38.605
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:22.585
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -10984,7 +10984,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:38.610
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:22.590
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11033,7 +11033,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:39.605
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:23.591
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11082,7 +11082,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:39.611
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:23.597
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11131,7 +11131,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:40.608
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:24.586
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11180,7 +11180,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:40.613
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:24.592
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11229,7 +11229,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:41.610
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:25.588
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11278,7 +11278,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:41.616
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:25.593
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11327,7 +11327,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:42.611
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:26.594
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11376,7 +11376,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:42.615
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:26.600
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11425,7 +11425,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:43.613
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:27.596
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11474,7 +11474,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:43.619
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:27.602
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11523,7 +11523,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:44.614
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:28.596
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11572,7 +11572,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:44.619
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:28.602
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11621,7 +11621,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:45.615
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:29.614
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11670,7 +11670,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:45.619
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:29.618
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11719,7 +11719,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:46.616
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:30.597
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11768,7 +11768,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:46.621
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:30.602
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11817,7 +11817,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:47.618
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:31.615
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11866,7 +11866,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:47.622
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:31.620
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11915,7 +11915,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:48.619
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:32.621
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -11964,7 +11964,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:48.624
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:32.626
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12013,7 +12013,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:49.621
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:33.606
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12062,7 +12062,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:49.625
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:33.611
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12111,7 +12111,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:50.623
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:34.608
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12160,7 +12160,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:50.627
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:34.613
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12209,7 +12209,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:51.622
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:35.612
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12258,7 +12258,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:51.627
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:35.617
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12307,7 +12307,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:52.625
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:36.613
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12356,7 +12356,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:52.630
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:36.619
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12405,7 +12405,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:53.626
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:37.612
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12454,7 +12454,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:53.631
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:37.617
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12503,7 +12503,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:54.628
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:38.621
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12552,7 +12552,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:54.633
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:38.626
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12601,7 +12601,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:55.629
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:39.619
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12650,7 +12650,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:55.634
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:39.624
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12699,7 +12699,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:56.631
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:40.631
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12748,7 +12748,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:56.636
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:40.635
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12797,7 +12797,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:57.632
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:41.617
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12846,7 +12846,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:57.638
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:41.623
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12895,7 +12895,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:58.635
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:42.617
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12944,7 +12944,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:58.640
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:42.623
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -12993,7 +12993,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:59.636
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:43.625
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13042,7 +13042,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:09:59.641
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:43.630
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13091,7 +13091,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:00.637
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:44.624
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13140,7 +13140,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:00.641
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:44.629
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13189,7 +13189,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:01.638
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:45.641
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13238,7 +13238,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:01.643
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:45.646
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13287,7 +13287,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:02.641
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:46.628
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13336,7 +13336,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:02.647
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:46.633
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13385,7 +13385,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:03.642
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:47.652
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13434,7 +13434,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:03.647
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:47.657
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13483,7 +13483,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:04.644
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:48.633
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13532,7 +13532,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:04.649
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:48.639
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13581,7 +13581,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:05.646
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:49.635
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13630,7 +13630,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:05.652
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:49.639
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13679,7 +13679,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:06.648
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:50.633
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13728,7 +13728,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:06.652
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:50.637
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13777,7 +13777,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:07.649
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:51.666
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13826,7 +13826,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:07.654
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:51.672
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13875,7 +13875,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:08.652
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:52.644
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13924,7 +13924,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:08.657
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:52.649
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -13973,7 +13973,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:09.653
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:53.642
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14022,7 +14022,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:09.658
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:53.648
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14071,7 +14071,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:10.655
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:54.645
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14120,7 +14120,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:10.661
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:54.650
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14169,7 +14169,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:11.657
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:55.644
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14218,7 +14218,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:11.662
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:55.649
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14267,7 +14267,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:12.658
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:56.646
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14316,7 +14316,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:12.663
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:56.652
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14365,7 +14365,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:13.660
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:57.654
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14414,7 +14414,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:13.665
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:57.660
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14463,7 +14463,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:14.662
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:58.656
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14512,7 +14512,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:14.667
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:58.660
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14561,7 +14561,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:15.663
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:59.655
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14610,7 +14610,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:15.668
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:06:59.660
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14659,7 +14659,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:16.665
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:00.657
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14708,7 +14708,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:16.670
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:00.662
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14757,7 +14757,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:17.666
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:01.657
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14806,7 +14806,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:17.671
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:01.662
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14855,7 +14855,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:18.668
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:02.655
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14904,7 +14904,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:18.673
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:02.661
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -14953,7 +14953,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:19.670
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:03.667
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -15002,7 +15002,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:19.675
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:03.671
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -15051,7 +15051,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:20.670
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:04.657
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -15100,7 +15100,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:20.675
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:04.662
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -15149,7 +15149,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:21.673
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:05.668
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
@@ -15198,7 +15198,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
-!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 15:10:21.678
+!ENTRY org.eclipse.cdt.dsf 4 -1 2018-03-15 16:07:05.673
 !MESSAGE Invocation exception when calling a service event handler method
 !STACK 0
 java.lang.reflect.InvocationTargetException
